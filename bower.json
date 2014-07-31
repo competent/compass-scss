@@ -1,0 +1,19 @@
+{
+  "name": "compass-scss",
+  "version": "0.2.16",
+  "description": "A fork of Compass removing everything bar the SCSS",
+  "main": [
+    "frameworks"
+  ],
+  "keywords": [
+    "compass",
+    "scss",
+    "sass",
+    "css",
+	"compact"
+  ],
+  "license": "a slightly modified MIT License",
+  "ignore": [
+    "**/.*"
+  ]
+}
